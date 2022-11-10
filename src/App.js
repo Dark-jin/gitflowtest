@@ -30,7 +30,6 @@ function Counter() {
     setCount(count - 1);
   }
   // wow zz
-  
   return(
     <div>
       <button onClick={addCount}>up</button>
